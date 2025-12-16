@@ -63,6 +63,7 @@ CREDITS: Dict[str, int] = {
     "IT2090": 2,  # Professional Skills
     "IT2100": 1,  # Employability Skills Development – Seminar
     "IT2110": 3,  # Probability and Statistics
+    "IT2120": 4,  # Web Application Development
 
     # ------------------------
     # Year 3 – IT / SE
